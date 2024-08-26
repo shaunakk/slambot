@@ -1,6 +1,0 @@
-Invoking command in '/slambot/ros2/build/turtlesim': CMAKE_PREFIX_PATH=/workspace/install/jetbot_ros:${CMAKE_PREFIX_PATH} /usr/bin/cmake /slambot/ros2/src/ros_tutorials/turtlesim -DCMAKE_INSTALL_PREFIX=/slambot/ros2/install/turtlesim
-Invoked command in '/slambot/ros2/build/turtlesim' returned '0': CMAKE_PREFIX_PATH=/workspace/install/jetbot_ros:${CMAKE_PREFIX_PATH} /usr/bin/cmake /slambot/ros2/src/ros_tutorials/turtlesim -DCMAKE_INSTALL_PREFIX=/slambot/ros2/install/turtlesim
-Invoking command in '/slambot/ros2/build/turtlesim': CMAKE_PREFIX_PATH=/workspace/install/jetbot_ros:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /slambot/ros2/build/turtlesim -- -j4 -l4
-Invoked command in '/slambot/ros2/build/turtlesim' returned '0': CMAKE_PREFIX_PATH=/workspace/install/jetbot_ros:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /slambot/ros2/build/turtlesim -- -j4 -l4
-Invoking command in '/slambot/ros2/build/turtlesim': CMAKE_PREFIX_PATH=/workspace/install/jetbot_ros:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /slambot/ros2/build/turtlesim --target install -- -j4 -l4
-Invoked command in '/slambot/ros2/build/turtlesim' returned '0': CMAKE_PREFIX_PATH=/workspace/install/jetbot_ros:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /slambot/ros2/build/turtlesim --target install -- -j4 -l4
