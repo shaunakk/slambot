@@ -1,0 +1,4 @@
+Invoking command in '/slambot/ros2/build/rplidar_ros': CMAKE_PREFIX_PATH=/workspace/install/jetbot_ros:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /slambot/ros2/build/rplidar_ros -- -j4 -l4
+Invoked command in '/slambot/ros2/build/rplidar_ros' returned '0': CMAKE_PREFIX_PATH=/workspace/install/jetbot_ros:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /slambot/ros2/build/rplidar_ros -- -j4 -l4
+Invoking command in '/slambot/ros2/build/rplidar_ros': CMAKE_PREFIX_PATH=/workspace/install/jetbot_ros:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /slambot/ros2/build/rplidar_ros --target install -- -j4 -l4
+Invoked command in '/slambot/ros2/build/rplidar_ros' returned '0': CMAKE_PREFIX_PATH=/workspace/install/jetbot_ros:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /slambot/ros2/build/rplidar_ros --target install -- -j4 -l4

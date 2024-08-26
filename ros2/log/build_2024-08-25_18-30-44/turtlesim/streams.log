@@ -1,0 +1,322 @@
+[0.087s] Invoking command in '/slambot/ros2/build/turtlesim': CMAKE_PREFIX_PATH=/workspace/install/jetbot_ros:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /slambot/ros2/build/turtlesim -- -j4 -l4
+[0.360s] [  1%] Built target turtlesim__cpp
+[0.392s] [ 11%] Built target turtlesim__rosidl_generator_c
+[0.500s] [ 21%] Built target turtlesim__rosidl_typesupport_introspection_cpp
+[0.507s] [ 31%] Built target turtlesim__rosidl_typesupport_fastrtps_cpp
+[0.518s] [ 41%] Built target turtlesim__rosidl_typesupport_cpp
+[0.544s] [ 51%] Built target turtlesim__rosidl_typesupport_introspection_c
+[0.624s] [ 61%] Built target turtlesim__rosidl_typesupport_c
+[0.656s] [ 71%] Built target turtlesim__rosidl_typesupport_fastrtps_c
+[0.741s] [ 71%] Built target turtlesim
+[0.854s] [ 72%] Built target turtlesim__py
+[0.904s] [ 74%] Built target mimic
+[0.915s] [ 76%] Built target draw_square
+[0.974s] [ 82%] Built target turtlesim_node
+[1.018s] [ 84%] Built target turtle_teleop_key
+[1.046s] [ 93%] Built target turtlesim__python
+[1.236s] [ 95%] Built target turtlesim__rosidl_typesupport_fastrtps_c__pyext
+[1.289s] [100%] Built target turtlesim__rosidl_typesupport_c__pyext
+[1.290s] [100%] Built target turtlesim__rosidl_typesupport_introspection_c__pyext
+[1.344s] Invoked command in '/slambot/ros2/build/turtlesim' returned '0': CMAKE_PREFIX_PATH=/workspace/install/jetbot_ros:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /slambot/ros2/build/turtlesim -- -j4 -l4
+[2.015s] Invoking command in '/slambot/ros2/build/turtlesim': CMAKE_PREFIX_PATH=/workspace/install/jetbot_ros:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /slambot/ros2/build/turtlesim --target install -- -j4 -l4
+[2.244s] [  1%] Built target turtlesim__cpp
+[2.259s] [ 11%] Built target turtlesim__rosidl_generator_c
+[2.354s] [ 21%] Built target turtlesim__rosidl_typesupport_cpp
+[2.382s] [ 31%] Built target turtlesim__rosidl_typesupport_introspection_cpp
+[2.405s] [ 41%] Built target turtlesim__rosidl_typesupport_introspection_c
+[2.412s] [ 51%] Built target turtlesim__rosidl_typesupport_fastrtps_cpp
+[2.459s] [ 61%] Built target turtlesim__rosidl_typesupport_c
+[2.545s] [ 71%] Built target turtlesim__rosidl_typesupport_fastrtps_c
+[2.627s] [ 71%] Built target turtlesim
+[2.761s] [ 72%] Built target turtlesim__py
+[2.782s] [ 74%] Built target mimic
+[2.813s] [ 76%] Built target draw_square
+[2.881s] [ 82%] Built target turtlesim_node
+[2.894s] [ 84%] Built target turtle_teleop_key
+[2.917s] [ 93%] Built target turtlesim__python
+[3.036s] [ 95%] Built target turtlesim__rosidl_typesupport_introspection_c__pyext
+[3.039s] [ 97%] Built target turtlesim__rosidl_typesupport_fastrtps_c__pyext
+[3.046s] [100%] Built target turtlesim__rosidl_typesupport_c__pyext
+[3.124s] [36mInstall the project...[0m
+[3.161s] -- Install configuration: ""
+[3.163s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/ament_index/resource_index/rosidl_interfaces/turtlesim
+[3.164s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim
+[3.165s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv
+[3.166s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/kill.h
+[3.167s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/teleport_absolute.h
+[3.168s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/set_pen.h
+[3.169s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/spawn.h
+[3.170s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/teleport_relative.h
+[3.171s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail
+[3.171s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/teleport_absolute__functions.h
+[3.172s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/set_pen__functions.c
+[3.172s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/spawn__struct.h
+[3.173s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/teleport_relative__struct.h
+[3.174s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/kill__functions.c
+[3.175s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/kill__functions.h
+[3.175s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/teleport_absolute__struct.h
+[3.176s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/teleport_absolute__functions.c
+[3.177s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/teleport_relative__functions.c
+[3.178s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/kill__type_support.h
+[3.179s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/teleport_absolute__type_support.h
+[3.180s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/set_pen__struct.h
+[3.181s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/spawn__functions.h
+[3.181s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/spawn__functions.c
+[3.182s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/spawn__type_support.h
+[3.182s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/set_pen__functions.h
+[3.183s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/set_pen__type_support.h
+[3.184s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/teleport_relative__functions.h
+[3.185s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/kill__struct.h
+[3.187s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/teleport_relative__type_support.h
+[3.188s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/action
+[3.189s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/action/rotate_absolute.h
+[3.190s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/action/detail
+[3.190s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/action/detail/rotate_absolute__functions.c
+[3.191s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/action/detail/rotate_absolute__struct.h
+[3.191s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/action/detail/rotate_absolute__type_support.h
+[3.192s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/action/detail/rotate_absolute__functions.h
+[3.192s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg
+[3.193s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/color.h
+[3.194s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail
+[3.194s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail/color__type_support.h
+[3.195s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail/pose__type_support.h
+[3.196s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail/pose__struct.h
+[3.196s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail/pose__functions.h
+[3.197s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail/color__struct.h
+[3.197s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail/color__functions.c
+[3.198s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail/pose__functions.c
+[3.198s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail/color__functions.h
+[3.199s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/pose.h
+[3.200s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/rosidl_generator_c__visibility_control.h
+[3.200s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/environment/library_path.sh
+[3.201s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/environment/library_path.dsv
+[3.201s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/libturtlesim__rosidl_generator_c.so
+[3.202s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim
+[3.202s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv
+[3.203s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail
+[3.204s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/teleport_relative__rosidl_typesupport_fastrtps_c.h
+[3.204s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/set_pen__rosidl_typesupport_fastrtps_c.h
+[3.205s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/teleport_absolute__rosidl_typesupport_fastrtps_c.h
+[3.205s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/kill__rosidl_typesupport_fastrtps_c.h
+[3.206s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/spawn__rosidl_typesupport_fastrtps_c.h
+[3.206s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/action
+[3.207s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/action/detail
+[3.207s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/action/detail/rotate_absolute__rosidl_typesupport_fastrtps_c.h
+[3.208s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg
+[3.208s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[3.209s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail
+[3.209s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail/color__rosidl_typesupport_fastrtps_c.h
+[3.210s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail/pose__rosidl_typesupport_fastrtps_c.h
+[3.210s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/libturtlesim__rosidl_typesupport_fastrtps_c.so
+[3.211s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim
+[3.211s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv
+[3.212s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail
+[3.212s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/teleport_absolute__rosidl_typesupport_fastrtps_cpp.hpp
+[3.213s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/set_pen__rosidl_typesupport_fastrtps_cpp.hpp
+[3.213s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/teleport_relative__rosidl_typesupport_fastrtps_cpp.hpp
+[3.214s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/spawn__rosidl_typesupport_fastrtps_cpp.hpp
+[3.214s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/kill__rosidl_typesupport_fastrtps_cpp.hpp
+[3.215s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/dds_fastrtps
+[3.215s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/action
+[3.216s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/action/detail
+[3.216s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/action/detail/rotate_absolute__rosidl_typesupport_fastrtps_cpp.hpp
+[3.217s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/action/detail/dds_fastrtps
+[3.217s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg
+[3.218s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail
+[3.218s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail/pose__rosidl_typesupport_fastrtps_cpp.hpp
+[3.219s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail/color__rosidl_typesupport_fastrtps_cpp.hpp
+[3.219s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail/dds_fastrtps
+[3.219s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[3.220s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/libturtlesim__rosidl_typesupport_fastrtps_cpp.so
+[3.220s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim
+[3.221s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv
+[3.221s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail
+[3.222s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/spawn__type_support.c
+[3.222s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/set_pen__type_support.c
+[3.223s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/spawn__rosidl_typesupport_introspection_c.h
+[3.223s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/kill__rosidl_typesupport_introspection_c.h
+[3.224s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/set_pen__rosidl_typesupport_introspection_c.h
+[3.224s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/teleport_relative__type_support.c
+[3.225s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/teleport_absolute__type_support.c
+[3.225s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/kill__type_support.c
+[3.226s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/teleport_absolute__rosidl_typesupport_introspection_c.h
+[3.226s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/teleport_relative__rosidl_typesupport_introspection_c.h
+[3.227s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/action
+[3.227s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/action/detail
+[3.228s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/action/detail/rotate_absolute__type_support.c
+[3.228s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/action/detail/rotate_absolute__rosidl_typesupport_introspection_c.h
+[3.229s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg
+[3.229s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail
+[3.230s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail/pose__type_support.c
+[3.230s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail/color__type_support.c
+[3.231s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail/color__rosidl_typesupport_introspection_c.h
+[3.231s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail/pose__rosidl_typesupport_introspection_c.h
+[3.232s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[3.232s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/libturtlesim__rosidl_typesupport_introspection_c.so
+[3.233s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/libturtlesim__rosidl_typesupport_c.so
+[3.234s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim
+[3.234s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv
+[3.234s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/spawn.hpp
+[3.235s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/teleport_relative.hpp
+[3.235s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/kill.hpp
+[3.236s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail
+[3.236s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/teleport_relative__traits.hpp
+[3.237s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/kill__traits.hpp
+[3.237s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/teleport_relative__struct.hpp
+[3.238s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/spawn__struct.hpp
+[3.238s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/spawn__builder.hpp
+[3.239s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/teleport_absolute__traits.hpp
+[3.239s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/teleport_absolute__builder.hpp
+[3.240s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/teleport_absolute__struct.hpp
+[3.240s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/kill__builder.hpp
+[3.241s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/spawn__traits.hpp
+[3.241s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/set_pen__traits.hpp
+[3.242s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/set_pen__builder.hpp
+[3.242s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/set_pen__struct.hpp
+[3.243s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/teleport_relative__builder.hpp
+[3.243s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/kill__struct.hpp
+[3.244s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/set_pen.hpp
+[3.244s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/teleport_absolute.hpp
+[3.245s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/action
+[3.245s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/action/rotate_absolute.hpp
+[3.246s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/action/detail
+[3.246s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/action/detail/rotate_absolute__traits.hpp
+[3.247s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/action/detail/rotate_absolute__builder.hpp
+[3.248s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/action/detail/rotate_absolute__struct.hpp
+[3.249s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg
+[3.249s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/pose.hpp
+[3.250s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/color.hpp
+[3.251s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail
+[3.251s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail/pose__builder.hpp
+[3.252s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail/pose__struct.hpp
+[3.252s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail/pose__traits.hpp
+[3.253s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail/color__struct.hpp
+[3.253s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail/color__traits.hpp
+[3.254s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail/color__builder.hpp
+[3.255s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim
+[3.255s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv
+[3.256s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail
+[3.257s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/teleport_relative__type_support.cpp
+[3.257s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/kill__type_support.cpp
+[3.258s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/spawn__rosidl_typesupport_introspection_cpp.hpp
+[3.258s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/teleport_relative__rosidl_typesupport_introspection_cpp.hpp
+[3.259s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/set_pen__type_support.cpp
+[3.259s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/teleport_absolute__type_support.cpp
+[3.260s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/spawn__type_support.cpp
+[3.260s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/set_pen__rosidl_typesupport_introspection_cpp.hpp
+[3.261s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/teleport_absolute__rosidl_typesupport_introspection_cpp.hpp
+[3.262s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/srv/detail/kill__rosidl_typesupport_introspection_cpp.hpp
+[3.262s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/action
+[3.263s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/action/detail
+[3.264s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/action/detail/rotate_absolute__type_support.cpp
+[3.265s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/action/detail/rotate_absolute__rosidl_typesupport_introspection_cpp.hpp
+[3.266s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg
+[3.266s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail
+[3.267s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail/color__type_support.cpp
+[3.267s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail/pose__rosidl_typesupport_introspection_cpp.hpp
+[3.268s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail/color__rosidl_typesupport_introspection_cpp.hpp
+[3.269s] -- Up-to-date: /slambot/ros2/install/turtlesim/include/turtlesim/msg/detail/pose__type_support.cpp
+[3.270s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/libturtlesim__rosidl_typesupport_introspection_cpp.so
+[3.270s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/libturtlesim__rosidl_typesupport_cpp.so
+[3.271s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/environment/pythonpath.sh
+[3.271s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/environment/pythonpath.dsv
+[3.272s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/python3.6/site-packages/turtlesim/__init__.py
+[3.376s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/python3.6/site-packages/turtlesim/action
+[3.378s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/python3.6/site-packages/turtlesim/action/__init__.py
+[3.379s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/python3.6/site-packages/turtlesim/action/_rotate_absolute.py
+[3.380s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/python3.6/site-packages/turtlesim/action/_rotate_absolute_s.c
+[3.381s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/python3.6/site-packages/turtlesim/msg
+[3.382s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/python3.6/site-packages/turtlesim/msg/__init__.py
+[3.382s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/python3.6/site-packages/turtlesim/msg/_color.py
+[3.383s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/python3.6/site-packages/turtlesim/msg/_pose_s.c
+[3.384s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/python3.6/site-packages/turtlesim/msg/_pose.py
+[3.385s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/python3.6/site-packages/turtlesim/msg/_color_s.c
+[3.385s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/python3.6/site-packages/turtlesim/srv
+[3.386s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/python3.6/site-packages/turtlesim/srv/_teleport_relative.py
+[3.387s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/python3.6/site-packages/turtlesim/srv/_kill_s.c
+[3.387s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/python3.6/site-packages/turtlesim/srv/__init__.py
+[3.388s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/python3.6/site-packages/turtlesim/srv/_set_pen.py
+[3.389s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/python3.6/site-packages/turtlesim/srv/_teleport_absolute.py
+[3.389s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/python3.6/site-packages/turtlesim/srv/_teleport_absolute_s.c
+[3.390s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/python3.6/site-packages/turtlesim/srv/_spawn.py
+[3.390s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/python3.6/site-packages/turtlesim/srv/_teleport_relative_s.c
+[3.391s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/python3.6/site-packages/turtlesim/srv/_set_pen_s.c
+[3.391s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/python3.6/site-packages/turtlesim/srv/_spawn_s.c
+[3.391s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/python3.6/site-packages/turtlesim/srv/_kill.py
+[3.392s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/python3.6/site-packages/turtlesim/turtlesim_s__rosidl_typesupport_fastrtps_c.cpython-36m-aarch64-linux-gnu.so
+[3.392s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/python3.6/site-packages/turtlesim/turtlesim_s__rosidl_typesupport_introspection_c.cpython-36m-aarch64-linux-gnu.so
+[3.393s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/python3.6/site-packages/turtlesim/turtlesim_s__rosidl_typesupport_c.cpython-36m-aarch64-linux-gnu.so
+[3.393s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/libturtlesim__python.so
+[3.394s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/action/RotateAbsolute.idl
+[3.394s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/msg/Color.idl
+[3.395s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/msg/Pose.idl
+[3.395s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/srv/Kill.idl
+[3.396s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/srv/SetPen.idl
+[3.396s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/srv/Spawn.idl
+[3.397s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/srv/TeleportAbsolute.idl
+[3.397s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/srv/TeleportRelative.idl
+[3.398s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/action/RotateAbsolute.action
+[3.399s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/msg/Color.msg
+[3.400s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/msg/Pose.msg
+[3.401s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/srv/Kill.srv
+[3.401s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/srv/Kill_Request.msg
+[3.402s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/srv/Kill_Response.msg
+[3.403s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/srv/SetPen.srv
+[3.403s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/srv/SetPen_Request.msg
+[3.404s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/srv/SetPen_Response.msg
+[3.405s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/srv/Spawn.srv
+[3.405s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/srv/Spawn_Request.msg
+[3.406s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/srv/Spawn_Response.msg
+[3.406s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/srv/TeleportAbsolute.srv
+[3.407s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/srv/TeleportAbsolute_Request.msg
+[3.407s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/srv/TeleportAbsolute_Response.msg
+[3.408s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/srv/TeleportRelative.srv
+[3.409s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/srv/TeleportRelative_Request.msg
+[3.410s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/srv/TeleportRelative_Response.msg
+[3.410s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/turtlesim/turtlesim_node
+[3.411s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/turtlesim/turtle_teleop_key
+[3.413s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/turtlesim/draw_square
+[3.413s] -- Up-to-date: /slambot/ros2/install/turtlesim/lib/turtlesim/mimic
+[3.414s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/images
+[3.415s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/images/crystal.png
+[3.415s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/images/ardent.png
+[3.416s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/images/bouncy.png
+[3.416s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/images/foxy.png
+[3.417s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/images/eloquent.png
+[3.417s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/images/dashing.png
+[3.418s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/launch
+[3.418s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/launch/multisim.launch.py
+[3.419s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/ament_index/resource_index/package_run_dependencies/turtlesim
+[3.419s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/ament_index/resource_index/parent_prefix_path/turtlesim
+[3.420s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/environment/ament_prefix_path.sh
+[3.420s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/environment/ament_prefix_path.dsv
+[3.421s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/environment/path.sh
+[3.422s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/environment/path.dsv
+[3.432s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/local_setup.bash
+[3.437s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/local_setup.sh
+[3.437s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/local_setup.zsh
+[3.438s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/local_setup.dsv
+[3.439s] -- Installing: /slambot/ros2/install/turtlesim/share/turtlesim/package.dsv
+[3.439s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/ament_index/resource_index/packages/turtlesim
+[3.440s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_generator_cExport.cmake
+[3.441s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_generator_cExport-noconfig.cmake
+[3.441s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_introspection_cExport.cmake
+[3.442s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[3.442s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_cExport.cmake
+[3.443s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_cExport-noconfig.cmake
+[3.443s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_generator_cppExport.cmake
+[3.444s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_introspection_cppExport.cmake
+[3.444s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[3.445s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_cppExport.cmake
+[3.445s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_cppExport-noconfig.cmake
+[3.446s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/cmake/rosidl_cmake-extras.cmake
+[3.446s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/cmake/ament_cmake_export_dependencies-extras.cmake
+[3.447s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/cmake/ament_cmake_export_libraries-extras.cmake
+[3.448s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/cmake/ament_cmake_export_targets-extras.cmake
+[3.449s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/cmake/ament_cmake_export_include_directories-extras.cmake
+[3.454s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[3.475s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[3.476s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/cmake/turtlesimConfig.cmake
+[3.477s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/cmake/turtlesimConfig-version.cmake
+[3.478s] -- Up-to-date: /slambot/ros2/install/turtlesim/share/turtlesim/package.xml
+[3.479s] Invoked command in '/slambot/ros2/build/turtlesim' returned '0': CMAKE_PREFIX_PATH=/workspace/install/jetbot_ros:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /slambot/ros2/build/turtlesim --target install -- -j4 -l4
