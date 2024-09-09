@@ -7,3 +7,6 @@
 [submodule "ros2/src/rosbridge_suite"]
 	path = ros2/src/rosbridge_suite
 	url = https://github.com/RobotWebTools/rosbridge_suite
+[submodule "ros2/src/src/navigation2"]
+	path = ros2/src/src/navigation2
+	url = https://github.com/ros-navigation/navigation2.git
